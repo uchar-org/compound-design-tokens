@@ -468,27 +468,27 @@
     "gradient": {
       "subtle": {
         "stop1": {
-          "value": "{color.alpha.green.500}",
+          "value": "{color.alpha.blue.500}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop2": {
-          "value": "{color.alpha.green.400}",
+          "value": "{color.alpha.blue.400}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop3": {
-          "value": "{color.alpha.green.300}",
+          "value": "{color.alpha.blue.300}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop4": {
-          "value": "{color.alpha.green.200}",
+          "value": "{color.alpha.blue.200}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop5": {
-          "value": "{color.alpha.green.100}",
+          "value": "{color.alpha.blue.100}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },

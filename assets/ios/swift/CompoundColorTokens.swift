@@ -64,11 +64,11 @@ public class CompoundColorTokens {
     public let gradientCriticalStop2 = CompoundCoreColorTokens.themeBg
     public let gradientInfoStop1 = CompoundCoreColorTokens.blue200
     public let gradientInfoStop2 = CompoundCoreColorTokens.themeBg
-    public let gradientSubtleStop1 = CompoundCoreColorTokens.alphaGreen500
-    public let gradientSubtleStop2 = CompoundCoreColorTokens.alphaGreen400
-    public let gradientSubtleStop3 = CompoundCoreColorTokens.alphaGreen300
-    public let gradientSubtleStop4 = CompoundCoreColorTokens.alphaGreen200
-    public let gradientSubtleStop5 = CompoundCoreColorTokens.alphaGreen100
+    public let gradientSubtleStop1 = CompoundCoreColorTokens.alphaBlue500
+    public let gradientSubtleStop2 = CompoundCoreColorTokens.alphaBlue400
+    public let gradientSubtleStop3 = CompoundCoreColorTokens.alphaBlue300
+    public let gradientSubtleStop4 = CompoundCoreColorTokens.alphaBlue200
+    public let gradientSubtleStop5 = CompoundCoreColorTokens.alphaBlue100
     public let gradientSubtleStop6 = CompoundCoreColorTokens.transparent
     public let iconAccentPrimary = CompoundCoreColorTokens.green900
     public let iconAccentTertiary = CompoundCoreColorTokens.green800

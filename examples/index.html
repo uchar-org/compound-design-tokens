@@ -15,28 +15,28 @@
     />
     <style>
       main {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate3d(-50%, -50%, 0);
-        max-width: 80vw;
-      }
-      aside {
-        border: 1px solid var(--cpd-color-text-secondary);
-        position: fixed;
-        top: 50px;
-        right: 50px;
-        padding: 20px;
-        border-radius: 8px;
-      }
-      input {
-        accent-color: #0dbd8b;
-      }
-      style {
-        white-space: pre;
-        border: 1px solid var(--cpd-color-text-secondary);
-        border-radius: 8px;
-      }
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate3d(-50%, -50%, 0);
+              max-width: 80vw;
+            }
+            aside {
+              border: 1px solid var(--cpd-color-text-secondary);
+              position: fixed;
+              top: 50px;
+              right: 50px;
+              padding: 20px;
+              border-radius: 8px;
+            }
+            input {
+              accent-color: #0dbd8b;
+            }
+            style {
+              white-space: pre;
+              border: 1px solid var(--cpd-color-text-secondary);
+              border-radius: 8px;
+            }
     </style>
     <main>
       <h1>Compound design tokens</h1>
@@ -53,22 +53,22 @@
       >
       <style style="display: block" contenteditable="true">
         body {
-          font: var(--cpd-font-body-md);
-          background: var(--cpd-color-surface-level-1);
-        }
+                  font: var(--cpd-font-body-md);
+                  background: var(--cpd-color-surface-level-1);
+                }
 
-        * {
-          color: var(--cpd-color-text-primary);
-        }
+                * {
+                  color: var(--cpd-color-text-primary);
+                }
 
-        h1 {
-          font: var(--cpd-font-heading-md);
-          color: var(--cpd-color-text-secondary);
-        }
+                h1 {
+                  font: var(--cpd-font-heading-md);
+                  color: var(--cpd-color-text-secondary);
+                }
 
-        main {
-          padding: var(--cpd-space-6x);
-        }
+                main {
+                  padding: var(--cpd-space-6x);
+                }
       </style>
     </main>
     <aside>
@@ -88,40 +88,40 @@
 
     <script>
       const themeRadios = document.querySelectorAll("[name=theme]");
-      const hcCheckbox = document.querySelector("#hc");
+            const hcCheckbox = document.querySelector("#hc");
 
-      document.querySelectorAll("input").forEach((input) => {
-        input.addEventListener("change", () => setTheme());
-      });
+            document.querySelectorAll("input").forEach((input) => {
+              input.addEventListener("change", () => setTheme());
+            });
 
-      function setTheme() {
-        let theme;
+            function setTheme() {
+              let theme;
 
-        for (const themeRadio of themeRadios) {
-          if (themeRadio.checked) {
-            theme = themeRadio.value;
-          }
-        }
+              for (const themeRadio of themeRadios) {
+                if (themeRadio.checked) {
+                  theme = themeRadio.value;
+                }
+              }
 
-        if (hcCheckbox.checked) {
-          theme += "-hc";
-        }
+              if (hcCheckbox.checked) {
+                theme += "-hc";
+              }
 
-        theme += ".css";
+              theme += ".css";
 
-        document
-          .querySelectorAll("link")
-          .forEach((link) => {
-            document.body.removeChild(link);
-          });
+              document
+                .querySelectorAll("link")
+                .forEach((link) => {
+                  document.body.removeChild(link);
+                });
 
-        const ln = document.createElement("link");
-        ln.href = `../assets/web/css/${theme}`;
-        ln.rel = "stylesheet";
-        document.body.append(ln);
-      }
+              const ln = document.createElement("link");
+              ln.href = `../assets/web/css/${theme}`;
+              ln.rel = "stylesheet";
+              document.body.append(ln);
+            }
 
-      setTheme();
+            setTheme();
     </script>
   </body>
 </html>

@@ -80,11 +80,11 @@
   --cpd-color-icon-success-primary: var(--cpd-color-green-900);
   --cpd-color-icon-info-primary: var(--cpd-color-blue-1100);
   --cpd-color-icon-on-solid-primary: var(--cpd-color-theme-bg);
-  --cpd-color-gradient-subtle-stop1: var(--cpd-color-alpha-green-500);
-  --cpd-color-gradient-subtle-stop2: var(--cpd-color-alpha-green-400);
-  --cpd-color-gradient-subtle-stop3: var(--cpd-color-alpha-green-300);
-  --cpd-color-gradient-subtle-stop4: var(--cpd-color-alpha-green-200);
-  --cpd-color-gradient-subtle-stop5: var(--cpd-color-alpha-green-100);
+  --cpd-color-gradient-subtle-stop1: var(--cpd-color-alpha-blue-500);
+  --cpd-color-gradient-subtle-stop2: var(--cpd-color-alpha-blue-400);
+  --cpd-color-gradient-subtle-stop3: var(--cpd-color-alpha-blue-300);
+  --cpd-color-gradient-subtle-stop4: var(--cpd-color-alpha-blue-200);
+  --cpd-color-gradient-subtle-stop5: var(--cpd-color-alpha-blue-100);
   --cpd-color-gradient-subtle-stop6: var(--cpd-color-transparent);
   --cpd-color-gradient-info-stop1: var(--cpd-color-blue-200);
   --cpd-color-gradient-info-stop2: var(--cpd-color-theme-bg);

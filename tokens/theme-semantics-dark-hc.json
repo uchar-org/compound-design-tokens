@@ -2,7 +2,7 @@
   "color": {
     "bg": {
       "subtle-secondary-level-0": {
-        "value": "{color.theme.bg}",
+        "value": "{color.blue}",
         "type": "color",
         "description": "Lower contrast surfaces.\nElevation: Level 0."
       },
@@ -17,22 +17,22 @@
     "gradient": {
       "action": {
         "stop1": {
-          "value": "{color.green.1100}",
+          "value": "{color.blue.1100}",
           "type": "color",
           "description": "Background gradient stop for super and send buttons"
         },
         "stop2": {
-          "value": "{color.green.900}",
+          "value": "{color.blue.900}",
           "type": "color",
           "description": "Background gradient stop for super and send buttons"
         },
         "stop3": {
-          "value": "{color.green.700}",
+          "value": "{color.blue.700}",
           "type": "color",
           "description": "Background gradient stop for super and send buttons"
         },
         "stop4": {
-          "value": "{color.green.500}",
+          "value": "{color.blue.500}",
           "type": "color",
           "description": "Background gradient stop for super and send buttons"
         },

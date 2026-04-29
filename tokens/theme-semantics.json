@@ -367,12 +367,12 @@
       },
       "accent": {
         "subtle": {
-          "value": "{color.green.700}",
+          "value": "{color.blue.700}",
           "type": "color",
           "description": "accent border intended for keylines on message highlights"
         },
         "primary": {
-          "value": "{color.green.900}",
+          "value": "{color.blue.900}",
           "type": "color",
           "description": "Accent borders for containers"
         }
@@ -426,12 +426,12 @@
       },
       "accent": {
         "tertiary": {
-          "value": "{color.green.800}",
+          "value": "{color.blue.800}",
           "type": "color",
           "description": "Lowest contrast accessible accent icons."
         },
         "primary": {
-          "value": "{color.green.900}",
+          "value": "{color.blue.900}",
           "type": "color",
           "description": "Highest contrast accessible accent icons."
         }

@@ -23,7 +23,7 @@
           "description": "Default text colour for plain actions."
         },
         "accent": {
-          "value": "{color.green.900}",
+          "value": "{color.blue.900}",
           "type": "color",
           "description": "Accent text colour for plain actions."
         }
@@ -97,7 +97,7 @@
       },
       "badge": {
         "accent": {
-          "value": "{color.green.1100}",
+          "value": "{color.blue.1100}",
           "type": "color",
           "description": "Badge accent text colour"
         },

@@ -1,6 +1,6 @@
 {
   "name": "@vector-im/compound-design-tokens",
-  "version": "10.1.1",
+  "version": "10.2.2",
   "description": "Compound design tokens",
   "sideEffects": false,
   "scripts": {
@@ -61,7 +61,7 @@
     "@babel/types": "^7.24.7",
     "@biomejs/biome": "^2.4.13",
     "@capsizecss/core": "^4.1.2",
-    "@capsizecss/metrics": "^3.3.0",
+    "@capsizecss/metrics": "^4.0.0",
     "@svgr/core": "^8.1.0",
     "@svgr/plugin-jsx": "^8.1.0",
     "@svgr/plugin-svgo": "^8.1.0",

@@ -2,7 +2,7 @@
   "color": {
     "bg": {
       "subtle-secondary-level-0": {
-        "value": "{color.blue}",
+        "value": "{color.blue.100}",
         "type": "color",
         "description": "Lower contrast surfaces.\nElevation: Level 0."
       },

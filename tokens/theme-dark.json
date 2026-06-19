@@ -511,7 +511,7 @@
         "description": "WCAG: 16"
       }
     },
-    "uchar": {
+    "neutral": {
       "100": { "value": "#0a0b0d", "type": "color", "description": "WCAG: 1.03" },
       "200": { "value": "#0f1012", "type": "color", "description": "WCAG: 1.06" },
       "300": { "value": "#141517", "type": "color", "description": "WCAG: 1.12" },

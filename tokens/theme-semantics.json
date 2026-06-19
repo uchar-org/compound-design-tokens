@@ -23,7 +23,7 @@
           "description": "Default text colour for plain actions."
         },
         "accent": {
-          "value": "{color.blue.900}",
+          "value": "{color.neutral.900}",
           "type": "color",
           "description": "Accent text colour for plain actions."
         }
@@ -97,7 +97,7 @@
       },
       "badge": {
         "accent": {
-          "value": "{color.blue.1100}",
+          "value": "{color.neutral.1100}",
           "type": "color",
           "description": "Badge accent text colour"
         },
@@ -259,29 +259,29 @@
       },
       "accent": {
         "rest": {
-          "value": "{color.blue.900}",
+          "value": "{color.neutral.900}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Rest."
         },
         "hovered": {
-          "value": "{color.blue.1000}",
+          "value": "{color.neutral.1000}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Hover"
         },
         "pressed": {
-          "value": "{color.blue.1100}",
+          "value": "{color.neutral.1100}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Pressed"
         },
         "selected": {
-          "value": "{color.alpha.blue.300}",
+          "value": "{color.alpha.neutral.300}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Selected"
         }
       },
       "badge": {
         "accent": {
-          "value": "{color.blue.400}",
+          "value": "{color.neutral.400}",
           "type": "color"
         },
         "info": {
@@ -367,12 +367,12 @@
       },
       "accent": {
         "subtle": {
-          "value": "{color.blue.700}",
+          "value": "{color.neutral.700}",
           "type": "color",
           "description": "accent border intended for keylines on message highlights"
         },
         "primary": {
-          "value": "{color.blue.900}",
+          "value": "{color.neutral.900}",
           "type": "color",
           "description": "Accent borders for containers"
         }
@@ -426,12 +426,12 @@
       },
       "accent": {
         "tertiary": {
-          "value": "{color.blue.800}",
+          "value": "{color.neutral.800}",
           "type": "color",
           "description": "Lowest contrast accessible accent icons."
         },
         "primary": {
-          "value": "{color.blue.900}",
+          "value": "{color.neutral.900}",
           "type": "color",
           "description": "Highest contrast accessible accent icons."
         }
@@ -468,27 +468,27 @@
     "gradient": {
       "subtle": {
         "stop1": {
-          "value": "{color.alpha.blue.500}",
+          "value": "{color.alpha.neutral.500}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop2": {
-          "value": "{color.alpha.blue.400}",
+          "value": "{color.alpha.neutral.400}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop3": {
-          "value": "{color.alpha.blue.300}",
+          "value": "{color.alpha.neutral.300}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop4": {
-          "value": "{color.alpha.blue.200}",
+          "value": "{color.alpha.neutral.200}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop5": {
-          "value": "{color.alpha.blue.100}",
+          "value": "{color.alpha.neutral.100}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },

@@ -6,10 +6,10 @@
 import UIKit
 
 public class CompoundUIColorTokens {
-    public let bgAccentHovered = CompoundCoreUIColorTokens.green1000
-    public let bgAccentPressed = CompoundCoreUIColorTokens.green1100
-    public let bgAccentRest = CompoundCoreUIColorTokens.green900
-    public let bgAccentSelected = CompoundCoreUIColorTokens.alphaGreen300
+    public let bgAccentHovered = CompoundCoreUIColorTokens.blue1000
+    public let bgAccentPressed = CompoundCoreUIColorTokens.blue1100
+    public let bgAccentRest = CompoundCoreUIColorTokens.blue900
+    public let bgAccentSelected = CompoundCoreUIColorTokens.alphaBlue300
     public let bgActionPrimaryDisabled = CompoundCoreUIColorTokens.gray700
     public let bgActionPrimaryHovered = CompoundCoreUIColorTokens.gray1200
     public let bgActionPrimaryPressed = CompoundCoreUIColorTokens.gray1100
@@ -20,7 +20,7 @@ public class CompoundUIColorTokens {
     public let bgActionTertiaryHovered = CompoundCoreUIColorTokens.gray300
     public let bgActionTertiaryRest = CompoundCoreUIColorTokens.themeBg
     public let bgActionTertiarySelected = CompoundCoreUIColorTokens.gray400
-    public let bgBadgeAccent = CompoundCoreUIColorTokens.green400
+    public let bgBadgeAccent = CompoundCoreUIColorTokens.blue400
     public let bgBadgeCritical = CompoundCoreUIColorTokens.red300
     public let bgBadgeDefault = CompoundCoreUIColorTokens.themeBg
     public let bgBadgeInfo = CompoundCoreUIColorTokens.blue400
@@ -44,8 +44,8 @@ public class CompoundUIColorTokens {
     public let bgSubtleSecondary = CompoundCoreUIColorTokens.gray300
     public let bgSubtleSecondaryLevel0 = UIColor(named: "bgSubtleSecondaryLevel0", in: Bundle.module, compatibleWith: nil)!
     public let bgSuccessSubtle = CompoundCoreUIColorTokens.green200
-    public let borderAccentPrimary = CompoundCoreUIColorTokens.green900
-    public let borderAccentSubtle = CompoundCoreUIColorTokens.green700
+    public let borderAccentPrimary = CompoundCoreUIColorTokens.blue900
+    public let borderAccentSubtle = CompoundCoreUIColorTokens.blue700
     public let borderCriticalHovered = CompoundCoreUIColorTokens.red1000
     public let borderCriticalPrimary = CompoundCoreUIColorTokens.red900
     public let borderCriticalSubtle = CompoundCoreUIColorTokens.red500
@@ -70,8 +70,8 @@ public class CompoundUIColorTokens {
     public let gradientSubtleStop4 = CompoundCoreUIColorTokens.alphaBlue200
     public let gradientSubtleStop5 = CompoundCoreUIColorTokens.alphaBlue100
     public let gradientSubtleStop6 = CompoundCoreUIColorTokens.transparent
-    public let iconAccentPrimary = CompoundCoreUIColorTokens.green900
-    public let iconAccentTertiary = CompoundCoreUIColorTokens.green800
+    public let iconAccentPrimary = CompoundCoreUIColorTokens.blue900
+    public let iconAccentTertiary = CompoundCoreUIColorTokens.blue800
     public let iconCriticalPrimary = CompoundCoreUIColorTokens.red900
     public let iconDisabled = CompoundCoreUIColorTokens.gray700
     public let iconInfoPrimary = CompoundCoreUIColorTokens.blue1100
@@ -87,9 +87,9 @@ public class CompoundUIColorTokens {
     public let iconTertiaryAlpha = CompoundCoreUIColorTokens.alphaGray800
     public let separatorPrimary = CompoundCoreUIColorTokens.gray400
     public let separatorSecondary = CompoundCoreUIColorTokens.gray300
-    public let textActionAccent = CompoundCoreUIColorTokens.green900
+    public let textActionAccent = CompoundCoreUIColorTokens.blue900
     public let textActionPrimary = CompoundCoreUIColorTokens.gray1400
-    public let textBadgeAccent = CompoundCoreUIColorTokens.green1100
+    public let textBadgeAccent = CompoundCoreUIColorTokens.blue1100
     public let textBadgeInfo = CompoundCoreUIColorTokens.blue1100
     public let textCriticalPrimary = CompoundCoreUIColorTokens.red900
     public let textDecorative1 = CompoundCoreUIColorTokens.lime1100

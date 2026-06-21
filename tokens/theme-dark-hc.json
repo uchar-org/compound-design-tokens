@@ -1320,6 +1320,78 @@
           "description": "WCAG: 17 Opacity: 0.98"
         }
       },
+      "neutral": {
+        "100": {
+          "value": "hsl(222, 8%, 10%, 1)",
+          "type": "color",
+          "description": "WCAG: 1.06 Opacity: 1"
+        },
+        "200": {
+          "value": "hsl(222, 8%, 12%, 1)",
+          "type": "color",
+          "description": "WCAG: 1.12 Opacity: 1"
+        },
+        "300": {
+          "value": "hsl(222, 8%, 15%, 1)",
+          "type": "color",
+          "description": "WCAG: 1.25 Opacity: 1"
+        },
+        "400": {
+          "value": "hsla(222, 8%, 18%, 0.82)",
+          "type": "color",
+          "description": "WCAG: 1.37 Opacity: 0.82"
+        },
+        "500": {
+          "value": "hsla(222, 7%, 30%, 0.53)",
+          "type": "color",
+          "description": "WCAG: 1.75 Opacity: 0.53"
+        },
+        "600": {
+          "value": "hsla(222, 7%, 35%, 0.64)",
+          "type": "color",
+          "description": "WCAG: 2.25 Opacity: 0.64"
+        },
+        "700": {
+          "value": "hsla(222, 6%, 42%, 0.81)",
+          "type": "color",
+          "description": "WCAG: 3.25 Opacity: 0.81"
+        },
+        "800": {
+          "value": "hsla(222, 5%, 52%, 0.91)",
+          "type": "color",
+          "description": "WCAG: 4.75 Opacity: 0.91"
+        },
+        "900": {
+          "value": "hsla(222, 5%, 72%, 0.97)",
+          "type": "color",
+          "description": "WCAG: 8.87 Opacity: 0.97"
+        },
+        "1000": {
+          "value": "hsla(222, 4%, 78%, 0.97)",
+          "type": "color",
+          "description": "WCAG: 10 Opacity: 0.97"
+        },
+        "1100": {
+          "value": "hsla(222, 4%, 84%, 0.98)",
+          "type": "color",
+          "description": "WCAG: 11.75 Opacity: 0.98"
+        },
+        "1200": {
+          "value": "hsla(222, 3%, 89%, 0.99)",
+          "type": "color",
+          "description": "WCAG: 13.25 Opacity: 0.99"
+        },
+        "1300": {
+          "value": "hsl(222, 3%, 94%, 1)",
+          "type": "color",
+          "description": "WCAG: 16 Opacity: 1"
+        },
+        "1400": {
+          "value": "hsl(222, 2%, 97%, 1)",
+          "type": "color",
+          "description": "WCAG: 17 Opacity: 1"
+        }
+      },
       "blue": {
         "100": {
           "value": "hsl(234, 100%, 18%, 1)",

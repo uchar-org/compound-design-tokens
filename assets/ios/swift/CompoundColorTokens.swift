@@ -87,7 +87,7 @@ public class CompoundColorTokens {
     public let iconTertiaryAlpha = CompoundCoreColorTokens.alphaGray800
     public let separatorPrimary = CompoundCoreColorTokens.gray400
     public let separatorSecondary = CompoundCoreColorTokens.gray300
-    public let textActionAccent = CompoundCoreColorTokens.blue900
+    public let textActionAccent = CompoundCoreColorTokens.neutral900
     public let textActionPrimary = CompoundCoreColorTokens.gray1400
     public let textBadgeAccent = CompoundCoreColorTokens.blue1100
     public let textBadgeInfo = CompoundCoreColorTokens.blue1100

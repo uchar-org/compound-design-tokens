@@ -35,7 +35,7 @@
           "description": "Text colour for external links."
         }
       },
-      "critical": {
+      "critical": { 
         "primary": {
           "value": "{color.red.900}",
           "type": "color",
@@ -259,22 +259,22 @@
       },
       "accent": {
         "rest": {
-          "value": "{color.blue.900}",
+          "value": "{color.neutral.900}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Rest."
         },
         "hovered": {
-          "value": "{color.blue.1000}",
+          "value": "{color.neutral.1000}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Hover"
         },
         "pressed": {
-          "value": "{color.blue.1100}",
+          "value": "{color.neutral.1100}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Pressed"
         },
         "selected": {
-          "value": "{color.alpha.blue.300}",
+          "value": "{color.alpha.neutral.300}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Selected"
         }

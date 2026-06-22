@@ -23,10 +23,10 @@ import io.element.android.compound.tokens.generated.internal.DarkColorTokens
  */
 @OptIn(CoreColorToken::class)
 val compoundColorsDark = SemanticColors(
-    bgAccentHovered = DarkColorTokens.colorBlue1000,
-    bgAccentPressed = DarkColorTokens.colorBlue1100,
-    bgAccentRest = DarkColorTokens.colorBlue900,
-    bgAccentSelected = DarkColorTokens.colorAlphaBlue300,
+    bgAccentHovered = DarkColorTokens.colorNeutral1000,
+    bgAccentPressed = DarkColorTokens.colorNeutral1100,
+    bgAccentRest = DarkColorTokens.colorNeutral900,
+    bgAccentSelected = DarkColorTokens.colorAlphaNeutral300,
     bgActionPrimaryDisabled = DarkColorTokens.colorGray700,
     bgActionPrimaryHovered = DarkColorTokens.colorGray1200,
     bgActionPrimaryPressed = DarkColorTokens.colorGray1100,

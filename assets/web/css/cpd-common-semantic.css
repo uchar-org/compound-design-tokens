@@ -43,10 +43,10 @@
   --cpd-color-bg-decorative-4: var(--cpd-color-purple-300);
   --cpd-color-bg-decorative-5: var(--cpd-color-pink-300);
   --cpd-color-bg-decorative-6: var(--cpd-color-orange-300);
-  --cpd-color-bg-accent-rest: var(--cpd-color-blue-900);
-  --cpd-color-bg-accent-hovered: var(--cpd-color-blue-1000);
-  --cpd-color-bg-accent-pressed: var(--cpd-color-blue-1100);
-  --cpd-color-bg-accent-selected: var(--cpd-color-alpha-blue-300);
+  --cpd-color-bg-accent-rest: var(--cpd-color-neutral-900);
+  --cpd-color-bg-accent-hovered: var(--cpd-color-neutral-1000);
+  --cpd-color-bg-accent-pressed: var(--cpd-color-neutral-1100);
+  --cpd-color-bg-accent-selected: var(--cpd-color-alpha-neutral-300);
   --cpd-color-bg-badge-accent: var(--cpd-color-blue-400);
   --cpd-color-bg-badge-info: var(--cpd-color-blue-400);
   --cpd-color-bg-badge-default: var(--cpd-color-theme-bg);
